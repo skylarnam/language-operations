@@ -18,10 +18,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 The following prerequisites are required to build this project.
 
-```
 1. Python Compiler
 2. Packages: textblob, titlecase, functools, readability, tkinter
 
+```
 pip install textblob titlecase functools readability tkinter
 ```
 
